@@ -1,0 +1,10 @@
+[package]
+name = "tpe-frontend-webapp"
+version = "0.1.0"
+edition = "2024"
+description = "tpe-frontend-webapp"
+
+[dependencies]
+
+[lints.clippy]
+pedantic = { level = "warn", priority = -1 }
